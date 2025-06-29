@@ -13,5 +13,9 @@
   },
   "dependencies": {
     "three": "^0.168.0"
-  }
+  },
+  "description": "Before you start, make sure you have Node.js installed on your machine: (https://nodejs.org/en/download/)",
+  "main": "vite.config.js",
+  "author": "",
+  "license": "ISC"
 }
